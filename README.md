@@ -1,5 +1,4 @@
 # Phishing Attack Investigation Lab
-# Phishing Attack Investigation Lab
 
 This repository contains a guided lab project aimed at investigating phishing attacks. The project equips you with the necessary skills to identify, analyze, and respond to phishing emails in a controlled environment. 
 
